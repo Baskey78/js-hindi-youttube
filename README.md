@@ -1,2 +1,2 @@
-# js-hindi-youttube
+# myjavascript 
 code repo for java script series at chai aur code youtube channel
